@@ -4,7 +4,8 @@ Software Developer
 ## Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+![Nest.js](https://img.shields.io/badge/Nest.js-000?logo=nest.js)
+![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
 
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?logo=springboot)
