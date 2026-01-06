@@ -4,7 +4,8 @@ Software Developer
 ## Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![Nest.js](https://img.shields.io/badge/Nest.js-000?logo=nest.js)
+[![Nest.js](https://img.shields.io/badge/Nest.js-000?logo=nest.js)](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=ea2845
+)
 ![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
 
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
